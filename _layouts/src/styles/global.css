@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+}
+
+p code {
+    padding: 3px 5px;
+    background-color: whitesmoke;
+}
+
+table.vertical-align-top td,
+table.vertical-align-top th {
+    vertical-align: top;
+}

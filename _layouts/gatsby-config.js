@@ -1,9 +1,9 @@
 const { NODE_ENV } = process.env
 
 module.exports = {
-    pathPrefix: (NODE_ENV == 'production') ? `/politic` : '/',
+    pathPrefix: (NODE_ENV == 'production') ? `/km-dev` : '/',
     siteMetadata: {
-      title: `Foam`,
+      title: `KM-DEV`,
     },
     plugins: [
       {
