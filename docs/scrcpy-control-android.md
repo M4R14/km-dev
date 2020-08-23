@@ -1,8 +1,3 @@
----
-title: วิธีใช้ Scrcpy ควบคุม Android ผ่าน USB และ Wireless (TCP/IP)
-description: ผมมองหาวิธีการเข้าควบคุม หรือ Remote โทรศัพท์ Android อยู่นาน จนมาเจอกัน scrcpy ที่เป็น open source คือฟรีนั้นเอง 
-date: '2020-05-25'
----
 # วิธีใช้ Scrcpy ควบคุม Android ผ่าน USB และ Wireless (TCP/IP)
 มองหาวิธีการเข้าควบคุม หรือ Remote โทรศัพท์ [[Android]] อยู่นาน จนมาเจอกัน scrcpy ที่เป็น open source คือฟรีนั้นเอง สามารถใช้ได้ทั้ง USB และผ่าน protocol TCP/IP รองรับการติดตั้งได้ทั้ง macOS, window และ Linux ในทบความนี้จะพูดถึงเฉพาะ macOS
 

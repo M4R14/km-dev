@@ -1,9 +1,11 @@
 # Foam
 
 ## Group
+
 [[Laravel]] | [[Mysql]] | [[Docker]]
 
 ## News
+
 - ขั้นตอนวิธีเปิดโหมด Kiosk ใน Chrome สำหรับ Windows | [[kiosk-chrome-on-windows]]
 - วีธีเก็บ Log Query ที่ทำงานช้าใน MySql | [[mysql-log-query]]
 - วิธีใช้ Scrcpy ควบคุม Android ผ่าน USB และ Wireless (TCP/IP) | [[scrcpy-control-android]]

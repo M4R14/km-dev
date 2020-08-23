@@ -1,10 +1,7 @@
----
-title: ขั้นตอน/วิธีเปิดโหมด Kiosk ใน Chrome สำหรับ Windows
-description: Kiosk คือเครื่องให้บริการแบบเป็นตู้ๆ วางไว้ตามที่ต่างๆ ที่ำกันสิทธิของ User ให้ทำได้แค่ไม่กี่อย่าง
-date: '2020-05-25'
----
 # ขั้นตอนวิธีเปิดโหมด Kiosk ใน Chrome สำหรับ Windows
+
 **Kiosk** คือเครื่องให้บริการแบบเป็นตู้ๆ วางไว้ตามที่ต่างๆ ที่กันสิทธิของ User ให้ทำได้แค่ไม่กี่อย่าง
+
 1. สร้าง shortcut ของ [[Chrome]]
 1. คลิกขวาเปิด **Properties**
 1. ที่ช่อง **Target:** เพิ่ม `...chrome.exe" --kiosk --kiosk-print           --overscroll-history-navigation=0 "https://gist.github.com/"` อาจจะแก้เป็นเว็บที่เราต้องการ
