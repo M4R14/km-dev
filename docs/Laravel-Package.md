@@ -1,4 +1,4 @@
-# Laravel-Package
+# Laravel Package
 
 - [Laravel Enum](https://github.com/BenSampo/laravel-enum)
 - [Laravel log viewer](https://github.com/rap2hpoutre/laravel-log-viewer)
